@@ -17,7 +17,7 @@
   
 ### 동작 영상
 
-<img src="" width="200" height="400"/>
+// <img src="" width="200" height="400"/>
 
 ### 작품 개발환경
    - Android Studio를 이용하여 앱 기능 구현
