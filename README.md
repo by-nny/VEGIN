@@ -6,6 +6,6 @@
   - 
 ### 작품 내용
 ### 동작 영상
-![Hnet-image](https://user-images.githubusercontent.com/70560199/154006692-9d893d08-64f9-4615-8230-4265ef4fc654.gif)
+<img src="https://user-images.githubusercontent.com/70560199/154006692-9d893d08-64f9-4615-8230-4265ef4fc654.gif" width="200" height="400"/>
 ### 작품 개발환경
 ### 작품 활용 및 기대효과
